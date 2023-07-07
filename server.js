@@ -6,7 +6,6 @@ app.use(bodyParser.urlencoded({extended:true}));
 
 const port = 3000
 
-const mailChimpApiKey = "4fd3e70cc098002e5c469e19e574a5f0-us21";
 
 app.get('/', (req, res) =>
  {
