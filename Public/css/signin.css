@@ -117,3 +117,9 @@
   {
     margin: 0.5rem 0rem;
   }
+
+  .mb-3
+  {
+    font-weight: bold;
+    color: #95B697;
+  }
